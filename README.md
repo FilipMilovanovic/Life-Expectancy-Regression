@@ -35,4 +35,4 @@ If the dataset is in a different location, update the path accordingly.
 Example of reading the dataset from the script:
 
 ```r
-data <- read.csv("../data/life_expectancy.csv", stringsAsFactors = FALSE)
+data <- read.csv("life_expectancy.csv", stringsAsFactors = FALSE)
